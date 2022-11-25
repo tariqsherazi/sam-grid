@@ -1,0 +1,65 @@
+export const data=[
+    {
+    first_name:"Tariq",
+    last_name:"Sherazi",
+    phone:"03038806600",
+    education:"BS",
+    developer:"Mern"
+},
+{
+    first_name:"Tariq1",
+    last_name:"Sherazi",
+    phone:"03038806600",
+    education:"BS1",
+    developer:"Mern1"
+},
+{
+    first_name:"Tariq2",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"Tariq3",
+    last_name:"Sherazi3",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"Tariq3",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"Tariq2",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"Tariq2",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"Tariq2",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+{
+    first_name:"bar",
+    last_name:"Sherazi2",
+    phone:"03038806600",
+    education:"BS2",
+    developer:"Mern2"
+},
+]
