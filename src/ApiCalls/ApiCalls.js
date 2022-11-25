@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const baseUrl = "http://localhost:5000";
+// const baseUrl = "http://localhost:5000";
+const baseUrl = "https://api-api.herokuapp.com";
+
 
  export const getDemo=async()=>{
     const {data}=await axios.get(baseUrl+'/demo')
